@@ -1,0 +1,74 @@
+:root {
+    --primary: #748c70;
+    --black: #0c0c0c;
+    --white: #ffffff;
+    --primary-primary-25: #f0f2ef;
+    --primary-primary-50: #d1d9cf;
+    --primary-primary-100: #b2bfaf;
+    --primary-primary-200: #a2b39f;
+    --primary-primary-300: #93a690;
+    --primary-primary-400: #839980;
+    --primary-primary-600: #5a6d57;
+    --primary-primary-700: #404e3e;
+    --primary-primary-750: #343e32;
+    --primary-primary-800: #272f25;
+    --primary-primary-900: #0d100c;
+    --neutral-background-faf-9-f-5: #faf9f5;
+    --neutral-gray-dfdfdf: #dfdfdf;
+    --neutral-gray-ededed: #ededed;
+    --neutral-gray-f-9-f-9-f-9: #f9f9f9;
+    --neutral-gray-cbcbcb: #cbcbcb;
+    --neutral-gray-adadad: #adadad;
+    --neutral-gray-868686: #868686;
+    --neutral-gray-606060: #606060;
+    --neutral-gray-404040: #404040;
+    --neutral-gray-202020: #202020;
+    --neutral-gray-0-c-0-c-0-c: #0c0c0c;
+    --statecolor-warning-bg: #f7e4c9;
+    --statecolor-warninglight: #ecbb77;
+    --statecolor-warning: #e09126;
+    --statecolor-error-bg: #fff2f2;
+    --statecolor-errorlight: #ed2e2e;
+    --statecolor-error: #c30000;
+    --statecolor-success-bg: #f3fdfa;
+    --statecolor-successlight: #00ba88;
+    --statecolor-success: #00966d;
+  
+    /* Fonts */
+    --display-1: 700 64px/140% "Montserrat", sans-serif;
+    --display-2: 700 56px/120% "Montserrat", sans-serif;
+    --h-1: 700 44px/140% "Montserrat", sans-serif;
+    --h-2: 700 40px/140% "Montserrat", sans-serif;
+    --h-3: 600 32px/140% "Montserrat", sans-serif;
+    --h-4: 700 24px/140% "Montserrat", sans-serif;
+    --h-5: 700 20px/140% "Montserrat", sans-serif;
+    --h-6: 700 16px/140% "Montserrat", sans-serif;
+    --body-xl: 400 20px/180% "Montserrat", sans-serif;
+    --body-lg: 400 18px/180% "Montserrat", sans-serif;
+    --body-md: 400 16px/180% "Montserrat", sans-serif;
+    --body-sm: 400 14px/180% "Montserrat", sans-serif;
+    --body-xs: 400 12px/180% "Montserrat", sans-serif;
+    --budy-xswithunderline: 400 12px/180% "Montserrat", sans-serif;
+    --caption-lg: 600 14px/180% "Montserrat", sans-serif;
+    --caption-md: 400 12px/180% "Montserrat", sans-serif;
+    --caption-sm: 600 10px/180% "Montserrat", sans-serif;
+    --button-lg: 400 16px/180% "Montserrat", sans-serif;
+    --button-sm: 400 14px/24px "Montserrat", sans-serif;
+    --overline-lg: 400 16px/180% "Montserrat", sans-serif;
+    --overline-sm: 600 12px "Montserrat", sans-serif;
+    --mobile-h-1: 700 24px/140% "Montserrat", sans-serif;
+    --mobile-h-2: 700 20px/140% "Montserrat", sans-serif;
+    --mobile-h-3: 700 16px/140% "Montserrat", sans-serif;
+    --mobile-h-4: 600 14px/140% "Montserrat", sans-serif;
+    --mobile-h-5: 600 12px/140% "Montserrat", sans-serif;
+    --mobile-body-lg: 400 14px/180% "Montserrat", sans-serif;
+    --mobile-body-md: 400 14px/140% "Montserrat", sans-serif;
+    --mobile-body-sm: 400 12px/140% "Montserrat", sans-serif;
+    --mobile-body-xs: 400 10px/140% "Montserrat", sans-serif;
+    --mobile-caption: 600 12px "Montserrat", sans-serif;
+    --mobile-button: 400 14px/24px "Montserrat", sans-serif;
+    --mobile-overline: 600 10px/140% "Montserrat", sans-serif;
+  
+    /* Effects */
+  }
+  
