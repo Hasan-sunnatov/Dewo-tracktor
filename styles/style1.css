@@ -2,9 +2,48 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  background: rgba(12, 13, 46, 0.90);
-  background: #010225;
+  /* background: rgba(12, 13, 46, 0.90); */
+  /* background: #010225; */
   color: #fff;
   font-family: 'Courier New', Courier, monospace;
-  background : linear-gradient(120deg, black,  rgb(63, 4, 4));
+  /* background : linear-gradient(120deg, black,  rgb(63, 4, 4)); */
+}
+.header{
+  display: flex;
+  align-items: center;
+}
+.boxcard{
+  width: 200px;
+  height: 50px;
+  background-color: blue;
+  border: 1px solid #fff;
+  flex-grow: 3;
+  flex-shrink: 1000;
+  color:black;
+}
+.boxcard1{
+  width: 200px;
+  height: 50px;
+  background-color: rgb(255, 123, 0);
+  border: 1px solid #fff;
+  flex-grow: 2;
+  color:black;
+  flex-shrink: 700;
+}
+.boxcard2{
+  width: 200px;
+  height: 50px;
+  background-color: rgb(217, 0, 255);
+  border: 1px solid #fff;
+  flex-grow: 1;
+  color: black;
+  flex-shrink: 900;
+}
+@media (max-width: 400px){
+  .header > .boxcard{
+    width: 100%;
+    height: 400px;
+    background: green;
+  }
+  
 }
