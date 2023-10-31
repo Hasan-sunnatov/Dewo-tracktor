@@ -5,6 +5,49 @@
     text-decoration: none;
     border-radius: 15px;
 }
+/* :root{
+  --bgcolor: yellow;
+  --fonts: green;
+  --textcolor: black;
+  --navigation: #234043;
+  --btnbgcolor: rgb(82, 34, 85) 255 255;
+  --introfor: #fc9220;
+  --Bghero: #09854645;
+} */
+
+html{
+  --Backgroundgcolor:rgb(0, 213, 195);
+}
+
+:root{
+  --Bgcolor: #043598;
+  --Textcolor: #34059854;
+  --Btncolor: #b31657;
+  --Introbgcolor:#0b98ad;
+  --HeroBgcolor: #043598;
+  --Information: #31b90456;
+  --Suportcolor: #bf860065;
+  --Color: rgb(255, 255, 7);
+  --Pragraph: #9d0000;
+  margin: 20px;
+}
+
+h1{
+  color: var(--Color);
+  background-color: var(--Btncolor);
+}
+
+h2{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--HeroBgcolor);
+  background-color: var(--Backgroundgcolor);
+}
+
+p{
+  color: var(--Pragraph);
+  text-align: justify;
+}
+
 .plugin-file-cover,
 .plugin-file-cover * {
   box-sizing: border-box;
@@ -15,6 +58,7 @@
   height: 960px;
   position: relative;
   overflow: hidden;
+  color: var(--bgcolor);
 }
 .frame-427319725 {
   background: var(--primary-primary-750, #343e32);
